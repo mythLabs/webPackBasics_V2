@@ -14,3 +14,6 @@ extract-text-webpack-plugin   //writing css to file
 babel-core   //convert es6
 babel-loader   //load es6
 babel-preset-env //conversion rules preset
+html-loader //loading html
+html-webpack-plugin  //displaying file
+file-loader //loading file
