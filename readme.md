@@ -27,4 +27,4 @@
 
 ###  html-webpack-plugin  //displaying file
 
-###  file-loader //loading file
+###  file-loader //loading file 
