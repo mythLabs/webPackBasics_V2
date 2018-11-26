@@ -4,17 +4,27 @@
 
 ## How to run
 ### npm install
-### npm run build  //run server
-### npm run build:prod //gives files
+### npm run build   
+### npm run build:prod
 
 ## dev-dependencies used
-### sass-loader   //loading sass 
+
+### sass-loader    //loading sass 
+
 ###  node-sass    //compiling sass
+
 ###  css-loader   //loading css
+
 ###  extract-text-webpack-plugin   //writing css to file
+
 ### babel-core   //convert es6
+
 ###  babel-loader   //load es6
+
 ###  babel-preset-env //conversion rules preset
+
 ###  html-loader //loading html
+
 ###  html-webpack-plugin  //displaying file
+
 ###  file-loader //loading file
